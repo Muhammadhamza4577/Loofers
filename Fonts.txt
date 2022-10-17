@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Montserrat
+Author: Julieta Ulanovsky
+Url: http://www.fontsquirrel.com/fonts/montserrat
+
+Font: Qwigley
+Author: TypeSETit
+Url: http://www.fontsquirrel.com/fonts/qwigley
