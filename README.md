@@ -17,27 +17,19 @@ Hacktoberfest is digitalocean’s annual event that encourages people to contrib
    click your Profile Image)
 2. Clone the forked repository to your local machine.
 
-```markdown
-git clone https://github.com/your-username/Loofers.git
-```
+`git clone https://github.com/your-username/Loofers.git`
 
 3. change the present working directory
 
-```markdown
-cd Hacktoberfest2022
-```
+`cd Hacktoberfest2022`
 
 4. create a new branch
 
-```markdown
-git checkout -b <branch-name>
-```
+`git checkout -b <branch-name>`
 
 5. Make your changes
 
-```markdown
-git add . git commit -m "Your commit Message" git push origin branch-name
-```
+`git add . git commit -m "Your commit Message" git push origin branch-name`
 
 - Make a pull request.
 - Star the repository.
